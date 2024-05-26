@@ -8,5 +8,6 @@ With this objetive in mind I will follow all steps required for a complete Time-
  - Step 4 - Second model - SARIMA
  - Step 5 - Predictions for the rest of 2024
  - Step 6 - Analysis of the predictions - Insights.
+   
 Feel free to contact me for any doubts, ideas or ways to improve.
 Adrian
