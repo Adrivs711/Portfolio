@@ -1,4 +1,4 @@
-Titanic_competition.ipynb notebook solves a Kaggle competition were I use machine learning algorithms to predict who survives in the Titanic, with a final score of 0.78708.
+Titanic_competition.ipynb notebook solves a Kaggle competition were I use machine learning algorithms to predict who survives in the Titanic, extracting lots of insights, with a final score of 0.78708.
 
 Link to the competition: https://www.kaggle.com/competitions/titanic
 
