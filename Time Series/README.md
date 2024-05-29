@@ -1,4 +1,4 @@
-Electricity consumption UK.ipynb notebook shows a project were, as Data Scientist, I predict and bring insights about the UK electricity consumption for the rest of 2024 (May 2024 - December 2024).
+Electricity consumption UK.ipynb notebook shows a project were I predict and bring insights about the UK electricity consumption for the rest of 2024 (May 2024 - December 2024).
 
 The dataset used can be found in kaggle, https://www.kaggle.com/datasets/albertovidalrod/electricity-consumption-uk-20092022 , this dataset has, between other things, the national demand of electricity in UK from 2009 to our days.
 For the sake of the analysis I take just the columns of National Demand and SETTLEMET_DATA.
