@@ -7,13 +7,11 @@ This dataset is taken from Kaggle, this is the link: https://www.kaggle.com/data
 This notebook will follow all steps for a complete Machine Learning project applied for clustering modelling:
   - Step 1 - Reading data, check nulls, check dtypes
   - Step 2 - Exploratory Data Analysis (EDA)
-  - Step 3 - Scaling data
-  - Step 4 - Plot dendograms
-  - Step 5 - K-Means model
-  - Step 6 - PCA (Principal component analysis)
-  - Step 7 - Second K-Means model
-  - Step 8 - Second PCA
-  - Step 9 - Plots, interpretations and conclussions
+  - Step 3 - Process and scale data
+  - Step 4 - Looking for number of clusters
+  - Step 5 - PCA (Principal component analysis)
+  - Step 6 - KPrototypes
+  - Step 7 - Plots and conclussions
 
 Feel free to contact me for any doubt or way to improve this project.
 
