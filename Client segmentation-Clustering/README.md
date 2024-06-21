@@ -1,6 +1,6 @@
 Welcome! 
 
-Indian consumption habits.ipynb is a notebook were I will imagine an Indian bank contacted me to group their clients on the basis of their consumption and extract insights and conclussions from it.
+Indian consumption habits.ipynb is a notebook were I will supose an Indian bank contacted me to group their clients on the basis of their consumption and extract insights and conclussions from it.
 
 This dataset is taken from Kaggle, this is the link: https://www.kaggle.com/datasets/thedevastator/analyzing-credit-card-spending-habits-in-india
 
