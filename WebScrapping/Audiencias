@@ -6,6 +6,13 @@ import json
 import numpy as np
 from datetime import datetime, timedelta
 
+"""
+Author: Adrian
+Date: 26/06/2024
+Dataset created using spanish audience data from https://www.formulatv.com/audiencias/
+
+"""
+
 def get_cadena(tag):
     lista = []
     for i in tag:
