@@ -19,7 +19,8 @@ The columns on this dataset are:
 
 The way of using it is just executing the script and insert the desired day in the console as showed in the image:
 
-![image](https://github.com/Adrivs711/Portfolio/assets/134110950/4bffc80c-4f3a-42aa-bb0c-514ced647b7e)
+![image](https://github.com/Adrivs711/Portfolio/assets/134110950/2fc164a2-7877-4477-8d6b-365ebf0af3d0)
+
 
 This previous example will extract info from 2010 until today.
 
