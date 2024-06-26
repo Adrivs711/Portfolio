@@ -6,6 +6,10 @@ This script extracts the best 25 TV programs that more audience have had for eac
 
 This script is interactive, meaning that you can extract as many days as you want, I extracted a dataset with info from year 2010 till now and uploaded it on Kaggle: https://www.kaggle.com/datasets/adrivs711/spanish-tv-audiences-january-2010-june-2024/
 
+This is an example of how the dataset should be:
+
+![image](https://github.com/Adrivs711/Portfolio/assets/134110950/81c33158-e28c-4980-897b-7ec7bf9781b9)
+
 The columns on this dataset are:
 
 - fecha: Date
