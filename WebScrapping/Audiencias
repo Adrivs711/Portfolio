@@ -106,7 +106,9 @@ def main():
                                   "share":get_share(dic[4])})
 
             audiencias =  pd.concat([audiencias, dataframe], axis=0).reset_index(drop = True)
+            #Print date
             print(i)
+            #Print number of rows for the current dataset
             print(len(audiencias))
         except:
             continue
