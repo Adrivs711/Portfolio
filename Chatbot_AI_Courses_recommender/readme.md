@@ -2,6 +2,8 @@
 
 This repository contains an advanced AI-powered chatbot designed to recommend professional training courses based on user inputs. The system leverages state-of-the-art technologies, including **natural language processing with Google Gemini**, **vector search with embeddings**, **cloud-based databases**, and a **modern conversational interface built with Streamlit**.
 
+To see the full demo and further explanations click the link to youtube: https://www.youtube.com/watch?v=Wbf0eiHDruQ
+
 ---
 
 ## 🎯 Overview
